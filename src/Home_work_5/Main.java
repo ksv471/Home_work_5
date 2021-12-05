@@ -3,7 +3,7 @@ package Home_work_5;
 public class Main {
     public static void main(String[] args) {
 
-        //Массив из 5 сотрудников.
+        //Массив из 5 сотрудников
         Person[] persArray = new Person[5];
         persArray[0] = new Person("Иванов Иван Иванович", "Генеральный директор", "IvanovIV@mail.ru", "+7999-888-77-66", 500000, 45);
         persArray[1] = new Person("Иванова Елена Евгеньевна", "Директор HR", "IvanovaEE@mail.r", "+7-999-777-66-55", 300000, 40);
